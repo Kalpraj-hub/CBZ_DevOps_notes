@@ -1,1 +1,1 @@
-## AWS Notes shared by classs  
+## AWS Notes shared by class 
