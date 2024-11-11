@@ -1,4 +1,5 @@
-# CBZ_DevOps_notes   gdsg
+# CBZ_DevOps_notes  
+
 --------
 
 ## Linux - AWS
